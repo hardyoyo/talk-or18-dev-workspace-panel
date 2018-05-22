@@ -82,7 +82,7 @@ https://www.vagrantup.com/
 ```
 @[1,6,14,15](shell provisioner scripts)
 @[19](Puppet provisioner)
-@[20]
+@[20](the Vagrantfile)
 ---
 # Vagrantfile
 ## pick a base box
