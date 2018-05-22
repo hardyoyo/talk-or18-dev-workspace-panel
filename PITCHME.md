@@ -10,7 +10,11 @@ Digital Library Software Developer, UCLA Library
 @fa[envelope] hpottinger@library.ucla.edu
 
 ---
+# Who?
+
+---
 # Why?
+
 ---?image=assets/images/GermanSubmarineControlRoom1918.jpg&size=auto
 
 ---
@@ -27,7 +31,7 @@ https://www.vagrantup.com/
 * Yes, even you Linux users.
 
 ---
-# Vagrant is a wrapper for managing a VM
+# Vagrant is a tool for managing a VMhttps://github.com/DSpace/DSpace/pull/1963
 * "Providers": VirtualBox, VMWare, AWS, and more
 * "Provisioners": Ansible, Chef, Puppet, and more
 * "Plugins": Hostname/DNS, Caching, Notifications
@@ -37,7 +41,7 @@ https://www.vagrantup.com/
 # Vagrant is Slow
 * Virtual Machines eat up a ton of RAM and CPU
 * Watching a machine provision itself is interesting the first few times
-* But it gets old
+* Recommendation: find something to do with your hands
 
 ---
 # Vagrant is a way to communicate
@@ -48,17 +52,18 @@ https://www.vagrantup.com/
 
 ---
 # Why I keep coming back to Vagrant: communication
-
- a. link to a page on localhost to prove DSpace is running
- b. look at how the Vagrantfile works
- c. point out customization points
- d. shoutout Vagrant plugins
- e. shoutout Vagrant Share
- f. shoutout to the DSpace Developer Show & Tell series
-
+* Let's pretend you all are my "customer"
+* It's demo time!
+* And code! On screen! Awesome!
 
 ---
-# The rest is just details
+# The Vagrant project folder
+
+---
+# The Vagrantfile
+
+---
+# Thanks!
 
 @fa[twitter] @hardy.pottinger
 
