@@ -109,7 +109,8 @@ else
 end
 ```
 ---
-#Vagrantfile: a Puppet provisioner
+# Vagrantfile
+## a Puppet provisioner
 ```ruby
 config.vm.provision :puppet do |puppet|
     puppet.manifests_path = "."
