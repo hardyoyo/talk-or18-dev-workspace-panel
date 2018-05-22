@@ -11,7 +11,7 @@ Digital Library Software Developer, UCLA Library
 
 ---
 # Why?
----?image=assets/images/GermanSubmarineControlRoom.jpgg&size=auto
+---?image=assets/images/GermanSubmarineControlRoom1918.jpg&size=auto
 
 ---
 # Predictable, Repeatable, Sharable
