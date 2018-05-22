@@ -57,7 +57,7 @@ https://www.vagrantup.com/
 * And code! On screen! Awesome!
 
 ---
-# The Vagrant-DSpace project folder
+## The Vagrant-DSpace project folder
 ```
 ├── apt-spy-2-bootstrap.sh
 ├── config
