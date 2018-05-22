@@ -108,6 +108,10 @@ else
       apt-spy-2-bootstrap", :path => "apt-spy-2-bootstrap.sh"
 end
 ```
+@[1](if there is a matching shell provisioner in the config folder)
+@[2-3](run it)
+@[4](otherwise...)
+@[5-6](run the default shell provisioner)
 ---
 # Vagrantfile
 ## a Puppet provisioner
