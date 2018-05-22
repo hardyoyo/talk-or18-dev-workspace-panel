@@ -51,7 +51,7 @@ https://www.vagrantup.com/
 * Impromptu pair programming at at distance
 
 ---
-# Why I keep coming back to Vagrant: communication
+# Communication
 * Let's pretend you all are my "customers"
 * It's demo time!
 * And code! On screen! Awesome!
