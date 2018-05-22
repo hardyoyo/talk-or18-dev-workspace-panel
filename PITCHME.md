@@ -32,10 +32,10 @@ https://www.vagrantup.com/
 
 ---
 # Vagrant is a tool for managing a VM
-* _Providers_: VirtualBox, VMWare, AWS, and more
-* _Provisioners_: Ansible, Chef, Puppet, and more
-* _Plugins_: Hostname/DNS, Caching, Notifications
-* _Vagrant Share_: Tunneling via *ngrok* to your workspace for quick demos
+* _Providers_ - VirtualBox, VMWare, AWS, and more
+* _Provisioners_ - Ansible, Chef, Puppet, and more
+* _Plugins_ - Hostname/DNS, Caching, Notifications
+* _Vagrant Share_ - Tunneling via *ngrok* to your workspace for quick demos
 
 ---
 # Vagrant is Slow
