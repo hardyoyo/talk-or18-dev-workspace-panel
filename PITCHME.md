@@ -91,17 +91,26 @@ config.vm.box = "geerlingguy/centos7"
 ---
 # Vagrantfile: a simple shell provisioner
 ```ruby
-config.vm.provision :shell, :name => "running puppet-bootstrap", :path => "puppet-bootstrap-ubuntu.sh"
+config.vm.provision :shell, :name => "running puppet-bootstrap",
+  :path => "puppet-bootstrap-ubuntu.sh"
 ```
 ---
 # Vagrantfile: a shell provisioner with an override
 ```ruby
 if File.exists?("config/apt-spy-2-bootstrap.sh")
-    config.vm.provision :shell, :name => "apt-spy-2, locating a nearby mirror", :inline => "echo '   > > > running local apt-spy2 to locate a nearby mirror (for quicker installs). Do not worry if it shows an error, it will be OK, there is a fallback.'"
-    config.vm.provision :shell, :name => "apt-spy-2, running custom apt-spy-2-bootstrap", :path => "config/apt-spy-2-bootstrap.sh"
+    config.vm.provision :shell, :name => "apt-spy-2, locating a nearby mirror",
+      :inline => "echo '   > > > running local apt-spy2 to locate a nearby mirror
+      (for quicker installs). Do not worry if it shows an error, it will be OK,
+      there is a fallback.'"
+    config.vm.provision :shell, :name => "apt-spy-2, running custom
+      apt-spy-2-bootstrap", :path => "config/apt-spy-2-bootstrap.sh"
 else
-    config.vm.provision :shell, :name => "apt-spy2, locating a nearby mirror", :inline => "echo '   > > > running default apt-spy2 to locate a nearby mirror (for quicker installs). Do not worry if it shows an error, it will be OK, there is a fallback.'"
-    config.vm.provision :shell, :name => "apt-spy2, running default apt-spy-2-bootstrap", :path => "apt-spy-2-bootstrap.sh"
+    config.vm.provision :shell, :name => "apt-spy2, locating a nearby mirror",
+      :inline => "echo '   > > > running default apt-spy2 to locate a nearby
+      mirror (for quicker installs). Do not worry if it shows an error, it will
+      be OK, there is a fallback.'"
+    config.vm.provision :shell, :name => "apt-spy2, running default
+      apt-spy-2-bootstrap", :path => "apt-spy-2-bootstrap.sh"
 end
 ```
 ---
