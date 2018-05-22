@@ -23,10 +23,6 @@ Digital Library Software Developer, UCLA Library
 ---
 # The rest is just details
 
-@fa[github] [github.com/uclalibrary/dspace/tree/ucla-vsim-6_x](https://github.com/uclalibrary/dspace/tree/ucla-vsim-6_x)
-
-@fa[sign-in] [vsim.library.ucla.edu](https://vsim.library.ucla.edu/)
-
 @fa[twitter] @hardy.pottinger
 
 @fa[envelope] hpottinger@library.ucla.edu
