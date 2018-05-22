@@ -31,7 +31,7 @@ https://www.vagrantup.com/
 * Yes, even Linux users.
 
 ---
-# Vagrant is a tool for managing a VMhttps://github.com/DSpace/DSpace/pull/1963
+# Vagrant is a tool for managing a VM
 * "Providers": VirtualBox, VMWare, AWS, and more
 * "Provisioners": Ansible, Chef, Puppet, and more
 * "Plugins": Hostname/DNS, Caching, Notifications
