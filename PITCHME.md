@@ -115,8 +115,6 @@ end
 config.vm.provision :puppet do |puppet|
     puppet.manifests_path = "."
     puppet.manifest_file = "setup.pp"
-    # NOTE: If you are hitting issues/errors with Puppet provisioning,
-    # adding "--debug" to the 'puppet.options' will provide debug logs.
     puppet.options = "--verbose"
 end
 ```
