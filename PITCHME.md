@@ -1,5 +1,6 @@
-# OR2018 GT21: Developer Workspaces Panel
-## Inroductions and Vagrant Up
+# OR2018 GT21
+# Developer Workspaces Panel
+## Introductions and Vagrant Up
 
 Hardy Pottinger
 
