@@ -28,7 +28,7 @@ Digital Library Software Developer, UCLA Library
 https://www.vagrantup.com/
 * "Development Environments Made Easy"
 * How to install: download the thing, click on the thing, do what you're told.
-* Yes, even you Linux users.
+* Yes, even Linux users.
 
 ---
 # Vagrant is a tool for managing a VMhttps://github.com/DSpace/DSpace/pull/1963
