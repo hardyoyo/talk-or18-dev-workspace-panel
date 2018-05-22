@@ -84,18 +84,21 @@ https://www.vagrantup.com/
 @[19](Puppet provisioner)
 @[20]
 ---
-# Vagrantfile: pick a base box
+# Vagrantfile
+## pick a base box
 ```ruby
 config.vm.box = "geerlingguy/centos7"
 ```
 ---
-# Vagrantfile: a simple shell provisioner
+# Vagrantfile
+## a simple shell provisioner
 ```ruby
 config.vm.provision :shell, :name => "running puppet-bootstrap",
   :path => "puppet-bootstrap-ubuntu.sh"
 ```
 ---
-# Vagrantfile: a shell provisioner with an override
+# Vagrantfile
+## a shell provisioner with an override
 ```ruby
 if File.exists?("config/apt-spy-2-bootstrap.sh")
     config.vm.provision :shell, :name => "apt-spy-2, running custom
