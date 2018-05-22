@@ -26,7 +26,7 @@ Digital Library Software Developer, UCLA Library
 ---
 # Vagrant Up
 https://www.vagrantup.com/
-"Development Environments Made Easy"
+* "Development Environments Made Easy"
 * How to install: download the thing, click on the thing, do what you're told.
 * Yes, even you Linux users.
 
