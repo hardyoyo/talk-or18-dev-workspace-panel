@@ -129,7 +129,7 @@ end
  * github.com/Islandora-Labs/islandora_vagrant
  * github.com/fcrepo4-exts/fcrepo4-vagrant
  * github.com/samvera-labs/samvera-vagrant
- * https://github.com/geerlingguy/ansible-vagrant-examples
+ * github.com/geerlingguy/ansible-vagrant-examples
 
 ---
 # Thanks!
