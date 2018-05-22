@@ -15,7 +15,6 @@ Digital Library Software Developer, UCLA Library
 
 ---
 # Predictable, Repeatable, Sharable
-## Development Environments
 * Vagrant
 * Docker
 * wrappers for Docker (Codenvy, Docksal, Lando etc.) 
