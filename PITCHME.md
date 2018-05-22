@@ -123,7 +123,7 @@ config.vm.provision :puppet do |puppet|
 end
 ```
 ---
-#Vagrant: lots of room to play
+# Vagrant: lots of room to play
  * github.com/dspace/vagrant-dspace
  * github.com/Islandora-Labs/islandora_vagrant
  * github.com/fcrepo4-exts/fcrepo4-vagrant
