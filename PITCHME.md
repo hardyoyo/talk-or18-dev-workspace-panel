@@ -107,9 +107,14 @@ workstation. Unfortunately, I have to warn you...
 Note:
 Vagrant is slow. This isn't Vagrant's fault, it's just that running a virtual
 machine on your workstation takes resources away from your main operating
-system. And Vagrant provisions those virtual machines, that's its job.
-If that's what you're after, it's a fantastic tool. In fact, the reason
-I keep coming back to Vagrant as a tool is...
+system. Since you'll be doing a bit a waiting, I recommend picking up a hobby,
+have something to do with your hands while the text scrolls by. For me, it's
+a yo-yo. No, no tricks right now, I mentioned I only have 10 minutes, right?
+Ask me later.
+
+What is Vagrant doing while you're waiting? Vagrant provisions virtual
+machines, that's its job. If that's what you're after, it's a fantastic tool.
+In fact, the reason I keep coming back to Vagrant as a tool is...
 
 ---
 # Vagrant is a way to communicate
