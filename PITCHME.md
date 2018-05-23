@@ -138,14 +138,9 @@ end
 ---
 # Thanks!
 
-@fa[twitter] @hardy.pottinger
-
-@fa[envelope] hpottinger@library.ucla.edu
-
 slides: [github.com/hardyoyo/talk-or18-dev-workspace-panel](https://github.com/hardyoyo/talk-or18-dev-workspace-panel)
 
-## Image Credit
-German Submarine, UB-110. Photo of Control room looking aft, starboard side
+Image Credit: German Submarine, UB-110. Photo of Control room looking aft, starboard side
 Tyne & Wear Archives & Museums
 https://www.flickr.com/photos/29295370@N07/8441846768
 
