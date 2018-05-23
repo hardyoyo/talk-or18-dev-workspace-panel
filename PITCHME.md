@@ -146,4 +146,4 @@ https://www.flickr.com/photos/29295370@N07/8441846768
 
 ## Former Panelists
 * Erin Fahy, Stanford
-* Anusha Ranganathan, Cottage local-bootstrap
+* Anusha Ranganathan, Cottage Labs
