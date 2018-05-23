@@ -144,4 +144,5 @@ Image Credit: German Submarine, UB-110. Photo of Control room looking aft, starb
 Tyne & Wear Archives & Museums
 https://www.flickr.com/photos/29295370@N07/8441846768
 
-Former Panelists: Erin Fahy, Stanford & Anusha Ranganathan, Cottage Labs
+Former Panelists: Erin Fahy, Stanford &
+Anusha Ranganathan, Cottage Labs
