@@ -11,10 +11,10 @@ Digital Library Software Developer, UCLA Library
 
 ---
 # Who?
-* Terry Brady, Georgetown University Library
-* Liz Krznarich, ORCID
-* Kate Lynch, University of Pennsylvania
-* Hardy Pottinger, UCLA Library
+* *Terry Brady*, Georgetown University Library
+* *Liz Krznarich*, ORCID
+* *Kate Lynch*, University of Pennsylvania
+* *Hardy Pottinger*, UCLA Library
 
 ---
 # Why?
