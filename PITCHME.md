@@ -259,7 +259,10 @@ Note:
 There are many Vagrant workspace environments in existence, created and
 supported by the repository community. If you're interested, I recommend playing
 with a few of these. It's a fun way to get your feet wet, and see how all the
-parts fit together.
+parts fit together. Or, if you want to build your own environment, there are
+plenty of good ideas to swipe from all of these existing projects. Seriously,
+geerlingguy's examples are like the kitchen sink, do look there before you
+start on something new.
 
 ---
 # MOAR Demo?
