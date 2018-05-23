@@ -9,6 +9,8 @@ Digital Library Software Developer, UCLA Library
 
 @fa[envelope] hpottinger@library.ucla.edu
 
+Note:
+
 ---
 # Who?
 * *Terry Brady*, Georgetown University Library
@@ -19,13 +21,17 @@ Digital Library Software Developer, UCLA Library
 ---
 # Why?
 
+Note:
+
 ---?image=assets/images/GermanSubmarineControlRoom1918.jpg&size=auto
 
 ---
-# Predictable, Repeatable, Sharable
+# Predictable, Repeatable, Sharable, Disposable
 * Vagrant
 * Docker
 * wrappers for Docker (Codenvy, Docksal, Lando etc.)
+
+Note:
 
 ---
 # Vagrant Up
@@ -34,6 +40,8 @@ https://www.vagrantup.com/
 * How to install: download the thing, click on the thing, do what you're told.
 * Yes, even Linux users.
 
+Note:
+
 ---
 # Vagrant is a tool for managing a VM
 * _Providers_ - VirtualBox, VMWare, AWS, and more
@@ -41,11 +49,15 @@ https://www.vagrantup.com/
 * _Plugins_ - Hostname/DNS, Caching, Notifications
 * _Vagrant Share_ - Tunneling via *ngrok* to your workspace for quick demos
 
+Note:
+
 ---
 # Vagrant is Slow
 * Virtual Machines eat up a ton of RAM and CPU
 * Watching a machine provision itself is interesting the first few times
 * Recommendation: find something to do with your hands
+
+Note:
 
 ---
 # Vagrant is a way to communicate
@@ -54,11 +66,15 @@ https://www.vagrantup.com/
 * Bounce ideas off other developers
 * Impromptu pair programming at at distance
 
+Note:
+
 ---
 # Communication
 * Let's pretend you all are my "customers"
 * It's demo time!
 * And code! On screen! Awesome!
+
+Note:
 
 ---
 ## The Vagrant-DSpace project folder
@@ -87,12 +103,18 @@ https://www.vagrantup.com/
 @[1,6,14,15](shell provisioner scripts)
 @[19](Puppet provisioner)
 @[20](the Vagrantfile)
+
+Note:
+
 ---
 # Vagrantfile
 ## pick a base box
 ```ruby
 config.vm.box = "geerlingguy/centos7"
 ```
+
+Note:
+
 ---
 # Vagrantfile
 ## a simple shell provisioner
@@ -100,6 +122,9 @@ config.vm.box = "geerlingguy/centos7"
 config.vm.provision :shell, :name => "running puppet-bootstrap",
   :path => "puppet-bootstrap-ubuntu.sh"
 ```
+
+Note:
+
 ---
 # Vagrantfile
 ## a shell provisioner with an override
@@ -116,6 +141,9 @@ end
 @[2-3](run it)
 @[4](otherwise...)
 @[5-6](run the default shell provisioner)
+
+Note:
+
 ---
 # Vagrantfile
 ## a Puppet provisioner
@@ -126,6 +154,9 @@ config.vm.provision :puppet do |puppet|
     puppet.options = "--verbose"
 end
 ```
+
+Note:
+
 ---
 # Vagrant
 ## lots of room to play
@@ -134,6 +165,8 @@ end
  * github.com/fcrepo4-exts/fcrepo4-vagrant
  * github.com/samvera-labs/samvera-vagrant
  * github.com/geerlingguy/ansible-vagrant-examples
+
+Note:
 
 ---
 # Thanks!
@@ -147,3 +180,5 @@ https://www.flickr.com/photos/29295370@N07/8441846768
 
 Former Panelists: *Erin Fahy*, Stanford &  
 *Anusha Ranganathan*, Cottage Labs
+
+Note:
