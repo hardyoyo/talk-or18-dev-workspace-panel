@@ -39,6 +39,7 @@ up....
 Note:
 And that one word can mean many things:  
 Why are we here? Why work this way? Why is this important for repositories?
+I hope you don't mind, but I'd like to answer these questions with a picture.
 
 ---?image=assets/images/GermanSubmarineControlRoom1918.jpg&size=auto
 
@@ -281,5 +282,5 @@ I also want to thank Erin Fahy from Stanford and Anusha Ranganathan from
 Cottage Labs, who both were scheduled to be panelists but things didn't work
 out and they could not make it. They contributed to the discussion that led up
 to this panel, and have helped ensure the quality of the presentations are
-high. I appreciate all the panelists' continued guidance and hope to work with 
+high. I appreciate all the panelists' continued guidance and hope to work with
 them again.
